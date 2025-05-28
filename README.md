@@ -23,6 +23,7 @@ C/C++ • Linux • System Programming • Audio/Video Development • 3D Game E
   - Heterogeneous computing acceleration (GPU/NNN for audio/video/graphics tasks)  
 
 **📫 How to Reach Me:**  
+Blog: https://blog.csdn.net/weixin_44664985
 Email: [biaow35@gmail.com](mailto:biaow35@gmail.com)  
 (Feel free to discuss technical details or explore open-source collaboration in AV/graphics domains!)  
 
